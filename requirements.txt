@@ -1,0 +1,5 @@
+streamlit
+hashlib
+Fernet
+base64
+os
